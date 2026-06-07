@@ -37,6 +37,7 @@
 |[Tactual](https://github.com/tactual-dev/tactual)|Screen-reader navigation cost analyzer. Models the real effort for assistive technology (AT) users to find, reach, and operate interactive web content under 5 assistive-technology profiles. CLI, MCP server, and library API.
 |[Virtual Screen Reader](https://github.com/guidepup/virtual-screen-reader)|Virtual screen reader driver for unit test automation.|
 |[Web Accessibility Toolbar (WAT)](https://www.paciellogroup.com/resources/wat/)|The Web Accessibility Toolbar (WAT) has been developed to aid manual examination of web pages for a variety of aspects of accessibility.
+|[WCAGdesk](https://wcagdesk.eu)|Continuous WCAG 2.2 AA monitoring with RFC 3161 timestamped, tamper-evident evidence records for the EU Accessibility Act (EAA) and Germany's BFSG. Instant free scan and accessibility statement generator — no signup required.|
 |[AltTextLab](https://www.alttextlab.com/)|AI-powered alt text generator for images.
 
 ### Assistive Technologies
